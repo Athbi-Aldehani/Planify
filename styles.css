@@ -1,0 +1,499 @@
+/* ======================
+   GLOBAL STYLES 
+   ====================== */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f2e9e9;
+    padding-top: 60px;
+}
+
+/* ======================
+   NAVIGATION 
+   ====================== */
+.navbar {
+    background-color: #8b0000;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+/* ======================
+   HERO SECTION 
+   ====================== */
+.hero {
+    display: flex;
+    align-items: center;
+    padding: 100px 50px 50px;
+    min-height: 400px;
+    background-color: white;
+    background: linear-gradient(135deg, #ffffff 0%, #f9f9f9 100%);
+}
+
+.hero-content {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 50px;
+}
+
+.hero-left, 
+.hero-right {
+    flex: 1;
+}
+
+.hero-left h1 {
+    color: #8b0000;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    line-height: 1.3;
+}
+
+.hero-right p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* ======================
+   FORM CONTROLS 
+   ====================== */
+.college-selection, 
+.major-selection {
+    max-width: 1200px;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.college-selection label, 
+.major-selection label {
+    margin-right: 15px;
+    font-weight: bold;
+    color: #333;
+}
+
+.college-selection select, 
+.major-selection select {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 300px;
+    background-color: white;
+    cursor: pointer;
+}
+
+/* ======================
+   COURSE SELECTION 
+   ====================== */
+.course-selection {
+    max-width: 1200px;
+    margin: 50px auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+}
+
+.category-group {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.category-title {
+    background-color: #f8f8f8;
+    padding: 18px 25px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    color: #333;
+    transition: background-color 0.2s;
+}
+
+.category-title:hover {
+    background-color: #f0f0f0;
+}
+
+.category-title::after {
+    content: "+";
+    font-size: 1.5rem;
+    color: #8b0000;
+}
+
+.category-title.active::after {
+    content: "−";
+}
+
+.category-content {
+    display: none;
+    padding: 0;
+}
+
+.category-content.active {
+    display: block;
+}
+
+.course-item {
+    padding: 15px 25px;
+    border-top: 1px solid #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.2s;
+}
+
+.course-item:hover {
+    background-color: #fafafa;
+}
+
+.course-title {
+    flex: 1;
+    font-weight: 500;
+    color: #333;
+    padding-right: 15px;
+}
+
+/* ======================
+   ADD/REMOVE BUTTON 
+   ====================== */
+.add-button {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.add-button:hover {
+    transform: scale(1.1);
+}
+
+.add-button.added {
+    background-color: #f44336;
+}
+
+.add-button .symbol {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all 0.3s ease;
+    line-height: 1;
+}
+
+.add-button .plus {
+    opacity: 1;
+    transform: translate(-50%, -50%) rotate(0deg);
+    font-size: 28px;
+    margin-top: -2px;
+}
+
+.add-button .x {
+    opacity: 0;
+    transform: translate(-50%, -50%) rotate(90deg);
+    font-size: 28px;
+    margin-top: -2px;
+}
+
+.add-button.added .plus {
+    opacity: 0;
+    transform: translate(-50%, -50%) rotate(-90deg);
+}
+
+.add-button.added .x {
+    opacity: 1;
+    transform: translate(-50%, -50%) rotate(0deg);
+}
+
+/* ====================== */
+/* TIMETABLE SYSTEM */
+/* ====================== */
+.timetable-container {
+    max-width: 1200px;
+    margin: 50px auto;
+}
+
+.timetable-section {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.timetable {
+    width: 100%;
+    border-collapse: collapse;
+    position: relative;
+    table-layout: fixed;
+}
+
+/* Header row styling */
+.timetable th {
+    background-color: #8b0000;
+    color: white;
+    position: sticky;
+    top: 0;
+    font-weight: 600;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid #d1d1d1;
+    border-right: 1px solid #e0e0e0;
+}
+
+/* Remove right border from last header cell */
+.timetable th:last-child {
+    border-right: none;
+}
+
+/* Cell styling */
+.timetable td {
+    border: none;
+    padding: 0;
+    height: 20px;
+    position: relative;
+    border-right: 1px solid #e0e0e0;
+    overflow: visible;
+    vertical-align: top;
+}
+
+/* Remove right border from last cell in each row */
+.timetable td:last-child {
+    border-right: none;
+}
+
+/* Special border styling for time markers */
+.timetable tr[data-sharp-time="true"] td {
+    border-top: 2px solid #d1d1d1;
+}
+
+.timetable tr[data-half-hour="true"] td {
+    border-top: 1px solid #e0e0e0;
+}
+
+/* Time column styling */
+.time-column {
+    width: 80px;
+    background-color: #f8f8f8;
+    font-weight: bold;
+    color: #333;
+    position: sticky;
+    left: 0;
+    z-index: 10;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-right: 1px solid #e0e0e0;
+}
+
+.course-content {
+    white-space: normal; /* Allow text wrapping */
+    word-break: break-word; /* Prevent overflow */
+    line-height: 1.2;
+    width: 100%;
+    height: 100%;
+}
+
+/* Course blocks - Updated for side-by-side stacking */
+.course-cell {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #f2e9e9;
+    border-radius: 4px;
+    padding: 4px;
+    font-size: 0.8rem;
+    color: #333;
+    cursor: pointer;
+    border-left: 3px solid #8b0000;
+    box-sizing: border-box;
+    overflow: hidden;
+    transition: all 0.2s ease;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+/* Stacked course styling */
+.course-cell.stacked {
+    /* Width determined by JS based on how many courses are in the stack */
+    background-color: #f2e9e9;
+    z-index: 1;
+    transition: all 0.3s ease;
+}
+
+/* Hover state for courses */
+.course-cell:hover {
+    z-index: 100 !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.25);
+    width: 100% !important;
+    background-color: #fff8e1;
+    transform: translateY(-2px);
+    overflow-y: auto; /* Allow scrolling if content is too long */
+    max-height: 200px; /* Limit maximum height on hover */
+}
+
+/* Stack container */
+.stack-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    overflow: visible;
+}
+
+/* ======================
+   FLOATING COURSE DETAILS 
+   ====================== */
+#floating-course-details {
+    position: fixed;
+    width: 320px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    z-index: 1001;
+    padding: 20px;
+    display: none;
+    animation: fadeIn 0.2s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.floating-card-content {
+    max-width: 100%;
+    text-align: left;
+}
+
+.floating-card-content h3 {
+    color: #8b0000;
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.floating-card-content p {
+    margin: 10px 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #555;
+}
+
+.floating-card-content strong {
+    color: #333;
+}
+
+#remove-section-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #8b0000;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 15px;
+    transition: all 0.2s;
+}
+
+#remove-section-btn:hover {
+    background-color: #6d0000;
+}
+
+/* ======================
+   REMOVED SECTIONS PANEL 
+   ====================== */
+.removed-sections-container {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.removed-sections-container h3 {
+    color: #8b0000;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+#removed-sections-panel {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+}
+
+.removed-section-item {
+    background-color: #f8f8f8;
+    padding: 12px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 4px solid #8b0000;
+}
+
+.removed-section-item button {
+    padding: 6px 12px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* ======================
+   RESPONSIVE ADJUSTMENTS 
+   ====================== */
+@media (max-width: 768px) {
+    .hero-content {
+        flex-direction: column;
+        gap: 30px;
+    }
+    
+    .hero-left h1 {
+        font-size: 2rem;
+    }
+    
+    #floating-course-details {
+        width: 280px;
+    }
+    
+    #removed-sections-panel {
+        grid-template-columns: 1fr;
+    }
+
+    .college-selection, 
+    .major-selection {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}

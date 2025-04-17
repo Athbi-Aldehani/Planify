@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planify</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar"></nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-left">
+                <h1>Plan-and-fine your schedule based on your preferences with our Planify course planner tool</h1>
+            </div>
+            <div class="hero-right">
+                <p>Effortlessly organize your courses with Planify, the ultimate scheduling tool designed to fit your needs. No more stress, no more confusion—just a smooth, hassle-free way to build the perfect class timetable.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- College and Major Selection Dropdown -->
+    <div class="college-selection">
+        <label for="college-dropdown">Select Your College:</label>
+        <select id="college-dropdown">
+            <option value="">Choose a College</option>
+            <option value="College of Engineering">College of Engineering</option>
+            <option value="College of Business">College of Business</option>
+            <option value="College of Arts">College of Arts</option>
+        </select>
+    </div>
+    <div class="major-selection">
+        <label for="major-dropdown">Select Your Major:</label>
+        <select id="major-dropdown">
+            <option value="">Choose a Major</option>
+        </select>
+    </div>
+
+    <!-- Course Browsing Section -->
+    <section class="course-selection">
+        <div class="category-group">
+            <div class="category-title">General Education</div>
+            <div class="category-content"></div>
+        </div>
+
+        <div class="category-group">
+            <div class="category-title">Please Select a College</div>
+            <div class="category-content"></div>
+        </div>
+
+        <div class="category-group">
+            <div class="category-title">Compulsory Courses</div>
+            <div class="category-content"></div>
+        </div>
+        <div class="category-group">
+            <div class="category-title">Elective Courses</div>
+            <div class="category-content"></div>
+        </div>
+    </div>
+    <div class="category-group">
+        <div class="category-title">Capstone</div>
+        <div class="category-content"></div>
+    </div>
+    </section>
+
+    <!-- Timetable Section -->
+    <section class="timetable-container">
+        <div class="timetable-section">
+            <table class="timetable">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Sunday</th>
+                        <th>Monday</th>
+                        <th>Tuesday</th>
+                        <th>Wednesday</th>
+                        <th>Thursday</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- We'll generate this dynamically with JavaScript -->
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Removed Sections Panel -->
+        <div class="removed-sections-container">
+            <h3>Removed Sections</h3>
+            <div id="removed-sections-panel"></div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
