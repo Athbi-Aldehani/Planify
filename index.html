@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planify</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">Planify</div>
+            <div class="auth-buttons">
+                <button id="login-btn" class="auth-btn">Login</button>
+                <button id="signup-btn" class="auth-btn">Sign Up</button>
+                <div id="user-profile" class="user-profile">
+                    <span id="username-display">User</span>
+                    <button id="logout-btn" class="auth-btn">Logout</button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-left">
+                <h1>Plan-and-fine your schedule based on your preferences with our Planify course planner tool</h1>
+            </div>
+            <div class="hero-right">
+                <p>Effortlessly organize your courses with Planify, the ultimate scheduling tool designed to fit your needs. No more stress, no more confusion just a smooth, hassle free way to build the perfect class timetable.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- College and Major Selection Dropdown -->
+    <div class="college-selection">
+        <label for="college-dropdown">Select Your College:</label>
+        <select id="college-dropdown">
+            <option value="">Choose a College</option>
+            <option value="College of Engineering">College of Engineering</option>
+            <option value="College of Business">College of Business</option>
+            <option value="College of Arts">College of Arts</option>
+        </select>
+    </div>
+    <div class="major-selection">
+        <label for="major-dropdown">Select Your Major:</label>
+        <select id="major-dropdown">
+            <option value="">Choose a Major</option>
+        </select>
+    </div>
+
+    <!-- Course Browsing Section -->
+    <section class="course-selection">
+        <div class="category-group">
+            <div class="category-title">General Education</div>
+            <div class="category-content"></div>
+        </div>
+
+        <div class="category-group">
+            <div class="category-title">Please Select a College</div>
+            <div class="category-content"></div>
+        </div>
+
+        <div class="category-group">
+            <div class="category-title">Compulsory Courses</div>
+            <div class="category-content"></div>
+        </div>
+        <div class="category-group">
+            <div class="category-title">Elective Courses</div>
+            <div class="category-content"></div>
+        </div>
+    </div>
+    <div class="category-group">
+        <div class="category-title">Capstone</div>
+        <div class="category-content"></div>
+    </div>
+    </section>
+
+    <!-- Timetable Section -->
+    <section class="timetable-container">
+        <div class="timetable-section">
+            <table class="timetable">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Sunday</th>
+                        <th>Monday</th>
+                        <th>Tuesday</th>
+                        <th>Wednesday</th>
+                        <th>Thursday</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- the body will be generated in javascript file -->
+                </tbody>
+            </table>
+        </div>
+        
+        <!-- Removed Sections Panel -->
+        <div class="removed-sections-container">
+            <h3>Removed Sections</h3>
+            <div id="removed-sections-panel"></div>
+        </div>
+
+        <!-- Save Schedule Button -->
+        <div class="save-schedule-container">
+            <button id="save-schedule-btn">Save Current Schedule</button>
+        </div>
+
+        <!-- Saved Schedules Panel -->
+        <div id="saved-schedules-container" class="saved-schedules-container">
+            <h3>Your Saved Schedules</h3>
+            <div id="saved-schedules-panel"></div>
+        </div>
+    </section>
+
+    <!-- Authentication Modal -->
+    <div id="auth-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="login">Login</button>
+                <button class="tab-btn" data-tab="signup">Sign Up</button>
+            </div>
+            
+            <div id="login-tab" class="tab-content active">
+                <h2>Login</h2>
+                <form id="login-form">
+                    <div class="form-group">
+                        <label for="login-email">Email</label>
+                        <input type="email" id="login-email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password">Password</label>
+                        <input type="password" id="login-password" required>
+                    </div>
+                    <button type="submit" class="submit-btn">Login</button>
+                    <p class="form-message" id="login-message"></p>
+                </form>
+            </div>
+            
+            <div id="signup-tab" class="tab-content">
+                <h2>Create Account</h2>
+                <form id="signup-form">
+                    <div class="form-group">
+                        <label for="signup-username">Username</label>
+                        <input type="text" id="signup-username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="signup-email">Email</label>
+                        <input type="email" id="signup-email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="signup-password">Password</label>
+                        <input type="password" id="signup-password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="signup-confirm">Confirm Password</label>
+                        <input type="password" id="signup-confirm" required>
+                    </div>
+                    <button type="submit" class="submit-btn">Create Account</button>
+                    <p class="form-message" id="signup-message"></p>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Save Schedule Modal -->
+    <div id="save-schedule-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>Save Your Schedule</h2>
+            <form id="save-schedule-form">
+                <div class="form-group">
+                    <label for="schedule-name">Schedule Name</label>
+                    <input type="text" id="schedule-name" placeholder="Summer 2025 Schedule" required>
+                </div>
+                <button type="submit" class="submit-btn">Save</button>
+                <p class="form-message" id="save-schedule-message"></p>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

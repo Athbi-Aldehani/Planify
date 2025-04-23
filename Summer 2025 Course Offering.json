@@ -1,0 +1,2115 @@
+[
+    {
+        "courseCode": "ACCT130",
+        "courseTitle": "Financial Accounting",
+        "group": "College of Business Requirements",
+        "courseMajors": ["Accounting"],
+        "sections": [
+            {
+                "Section": "ACCT 130 - SEC 81",
+                "Faculty": "Nasser Al-Enzi",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-142"
+            }
+        ]
+    },
+    {
+        "courseCode": "ACCT232",
+        "courseTitle": "Financial Accounting II",
+        "group": "College of Business Requirements",
+        "courseMajors": ["Accounting"],
+        "sections": [
+            {
+                "Section": "ACCT 232 - SEC 81",
+                "Faculty": "Nasser Al-Enzi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-142"
+            }
+        ]
+    },
+    {
+        "courseCode": "ACCT366",
+        "courseTitle": "Accounting for Non-Profit Organization",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Accounting"],
+        "sections": [
+            {
+                "Section": "ACCT 366 - SEC 82",
+                "Faculty": "Hessa Al-Sanousi",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-132"
+            }
+        ]
+    },
+    {
+        "courseCode": "ACCT431",
+        "courseTitle": "Intermediate Accounting II",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Accounting"],
+        "sections": [
+            {
+                "Section": "ACCT 431 - SEC 81",
+                "Faculty": "Kamal Naser",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARAB101",
+        "courseTitle": "Arabic Language 1 (مبادئ النحو)",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ARAB 101 - SEC 81",
+                "Faculty": "Mutlaq Almershad",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-G11"
+            },
+            {
+                "Section": "ARAB 101 - SEC 82",
+                "Faculty": "Abdelmaksoud Elkhouly",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-G11"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARAB102",
+        "courseTitle": "Arabic Language 2 (قراءات وأساليب)",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ARAB 102 - SEC 81",
+                "Faculty": "Abdelmaksoud Elkhouly",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "01-B11"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARCD100",
+        "courseTitle": "Design Studio 1",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Architecture and Design"],
+        "sections": [
+            {
+                "Section": "ARCD 100 - Sec 81",
+                "Faculty": "Yousif AlQenai",
+                "Days": "SMTWU",
+                "Time": "09:30-12:20",
+                "Room": "01-237"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARCD105",
+        "courseTitle": "Intro to Design Culture",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Architecture and Design"],
+        "sections": [
+            {
+                "Section": "ARCD 105 - Sec 81",
+                "Faculty": "Ramy Mahmoud",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-G10"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARCD228",
+        "courseTitle": "Arch Technology 2",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Architecture and Design"],
+        "sections": [
+            {
+                "Section": "ARCD 228 - Sec 81",
+                "Faculty": "Ramy Mahmoud",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "01-232"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARCD250",
+        "courseTitle": "Arch Hist I",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Architecture and Design"],
+        "sections": [
+            {
+                "Section": "ARCD 250 - Sec 81",
+                "Faculty": "Maha AbdelHalim",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-234"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARCD251",
+        "courseTitle": "Arch Hist II",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Architecture and Design"],
+        "sections": [
+            {
+                "Section": "ARCD 251 - Sec 81",
+                "Faculty": "Maha AbdelHalim",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-234"
+            }
+        ]
+    },
+    {
+        "courseCode": "ARTG250",
+        "courseTitle": "Law and Ethics",
+        "group": "College of Arts Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ARTG 250 - SEC 81",
+                "Faculty": "Yahia Morse",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-B11"
+            }
+        ]
+    },
+    {
+        "courseCode": "BIOE120",
+        "courseTitle": "Biology for Biomed",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Biomedical Engineering"],
+        "sections": [
+            {
+                "Section": "BIOE 120 - Sec 81",
+                "Faculty": "Firas AlMasri",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "01-211"
+            },
+            {
+                "Section": "BIOE 120 - Sec 82",
+                "Faculty": "Firas AlMasri",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "01-211"
+            }
+        ]
+    },
+    {
+        "courseCode": "BIOE230",
+        "courseTitle": "Introduction to Biomechanics",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Biomedical Engineering"],
+        "sections": [
+            {
+                "Section": "BIOE 230 - Sec 81",
+                "Faculty": "Behzad Bashiri",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "BIOE345",
+        "courseTitle": "Medical Electronic + Lab",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Biomedical Engineering"],
+        "sections": [
+            {
+                "Section": "BIOE 345 - Sec 81",
+                "Faculty": "Mazin Sirry",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "01-213"
+            },
+            {
+                "Section": "BIOE 345 - Sec 81",
+                "Faculty": "Nada ElSayed",
+                "Days": "MW",
+                "Time": "12:30-14:20",
+                "Room": "01-G30"
+            },
+            {
+                "Section": "BIOE 345 - Sec 82",
+                "Faculty": "Mazin Sirry",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "01-213"
+            },
+            {
+                "Section": "BIOE 345 - Sec 82",
+                "Faculty": "Nada ElSayed",
+                "Days": "TU",
+                "Time": "11:00-13:20",
+                "Room": "01-G30"
+            }
+        ]
+    },
+    {
+        "courseCode": "BIOL110",
+        "courseTitle": "General Biology",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "BIOL 110 - Sec 81",
+                "Faculty": "Abdullah AlAqel",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "01-213"
+            },
+            {
+                "Section": "BIOL 110 - Sec 82",
+                "Faculty": "Abdullah AlAqel",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "01-213"
+            }
+        ]
+    },
+    {
+        "courseCode": "BUSG101",
+        "courseTitle": "Principles of Business Administration",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "BUSG 101 - SEC 81",
+                "Faculty": "Bader Almutairi",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "BUSG230",
+        "courseTitle": "Entrepreneurship Principles",
+        "group": "College of Arts Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "BUSG 230 - SEC 81",
+                "Faculty": "Bader Almutairi",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-131"
+            },
+            {
+                "Section": "BUSG 230 - SEC 82",
+                "Faculty": "Ahmad  Alduwailah",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-141"
+            },
+            {
+                "Section": "BUSG 230 - SEC 83",
+                "Faculty": "Ahmad  Alduwailah",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-G40"
+            }
+        ]
+    },
+    {
+        "courseCode": "BUSG250",
+        "courseTitle": "Business Law",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "BUSG 250 - SEC 81",
+                "Faculty": "Khaled Aldaas",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "CHEM131",
+        "courseTitle": "General Chemistry I",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "CHEM 131 - Sec 81",
+                "Faculty": "Rachid Ammar",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "01-227"
+            },
+            {
+                "Section": "CHEM 131 - Sec 81",
+                "Faculty": "Anwar Al Rashidi",
+                "Days": "ST",
+                "Time": "12:30-14:20",
+                "Room": "01-130"
+            },
+            {
+                "Section": "CHEM 131 - Sec 82",
+                "Faculty": "Nour Kork",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-243"
+            },
+            {
+                "Section": "CHEM 131 - Sec 82",
+                "Faculty": "Anwar Al Rashidi",
+                "Days": "ST",
+                "Time": "09:30-11:20",
+                "Room": "01-130"
+            }
+        ]
+    },
+    {
+        "courseCode": "CHEM132",
+        "courseTitle": "General Chemistry 2",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Biomedical Engineering"],
+        "sections": [
+            {
+                "Section": "CHEM 132 - Sec 81",
+                "Faculty": "Rachid Ammar",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "01-227"
+            },
+            {
+                "Section": "CHEM 132 - Sec 81",
+                "Faculty": "Anwar Al Rashidi",
+                "Days": "MW",
+                "Time": "09:30-11:20",
+                "Room": "01-140"
+            }
+        ]
+    },
+    {
+        "courseCode": "CIVE230",
+        "courseTitle": "Mechanics I (Statics)",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Civil and Architectural Engineering"],
+        "sections": [
+            {
+                "Section": "CIVE 230 - Sec 81",
+                "Faculty": "Abdullah M. AlRashidi",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "CIVE232",
+        "courseTitle": "Mechanics of Solids",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Civil and Architectural Engineering"],
+        "sections": [
+            {
+                "Section": "CIVE 232 - SEC 81",
+                "Faculty": "Khadeeja Almutairi",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-G40"
+            }
+        ]
+    },
+    {
+        "courseCode": "CIVE331",
+        "courseTitle": "Fluid Mechanics & Hydraulic Engr + Lab",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Civil and Architectural Engineering"],
+        "sections": [
+            {
+                "Section": "CIVE 331 - Sec 81",
+                "Faculty": "Ahmed Abdelhameed Alyeldien",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "01-225"
+            },
+            {
+                "Section": "CIVE 331 - Sec 81",
+                "Faculty": "Ali Radwan",
+                "Days": "MW",
+                "Time": "09:30-11:20",
+                "Room": "01-G20"
+            }
+        ]
+    },
+    {
+        "courseCode": "CIVE334",
+        "courseTitle": "Environmental Engineering",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Civil and Architectural Engineering"],
+        "sections": [
+            {
+                "Section": "CIVE 334 - Sec 81",
+                "Faculty": "Mohamed Hamoda",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-112"
+            }
+        ]
+    },
+    {
+        "courseCode": "CIVE337",
+        "courseTitle": "Structural Analysis",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Civil and Architectural Engineering"],
+        "sections": [
+            {
+                "Section": "CIVE 337 - Sec 81",
+                "Faculty": "Fahad Almutairi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-122"
+            }
+        ]
+    },
+    {
+        "courseCode": "CIVE340",
+        "courseTitle": "Architectural Design I",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Civil and Architectural Engineering"],
+        "sections": [
+            {
+                "Section": "CIVE 340 - Sec 81",
+                "Faculty": "Yousif AlQenai",
+                "Days": "STU",
+                "Time": "14:00-14:50",
+                "Room": "01-211"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPE250",
+        "courseTitle": "Discrete Structures",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Computer Engineering"],
+        "sections": [
+            {
+                "Section": "CMPE 250 - SEC 81",
+                "Faculty": "Faroq Awin",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "01-211"
+            },
+            {
+                "Section": "CMPE 250 - SEC 82",
+                "Faculty": "Faroq Awin",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "01-225"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPE260",
+        "courseTitle": "Data Structures",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Computer Engineering"],
+        "sections": [
+            {
+                "Section": "CMPE 260 - SEC 81",
+                "Faculty": "Ali Hossein Zanbouri",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-120"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPE341",
+        "courseTitle": "Fundamentals of Digital Logic + Lab",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Computer Engineering", "Electrical Engineering"],
+        "sections": [
+            {
+                "Section": "CMPE 341 - SEC 81",
+                "Faculty": "Elsheikh Mohamed  Ahmed Elsheikh",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-132"
+            },
+            {
+                "Section": "CMPE 341 - SEC 81",
+                "Faculty": "Anas IBreik",
+                "Days": "ST",
+                "Time": "14:00-15:50",
+                "Room": "01-121"
+            },
+            {
+                "Section": "CMPE 341 - SEC 82",
+                "Faculty": "Laila Alterkawi",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-122"
+            },
+            {
+                "Section": "CMPE 341 - SEC 82",
+                "Faculty": "Anas IBreik",
+                "Days": "TU",
+                "Time": "09:30-10:50",
+                "Room": "01-121"
+            },
+            {
+                "Section": "CMPE 341 - SEC 83",
+                "Faculty": "Laila Alterkawi",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-122"
+            },
+            {
+                "Section": "CMPE 341 - SEC 83",
+                "Faculty": "Anas IBreik",
+                "Days": "MW",
+                "Time": "09:30-11:20",
+                "Room": "01-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPE355",
+        "courseTitle": "Computer Networks",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Computer Engineering"],
+        "sections": [
+            {
+                "Section": "CMPE 355 - SEC 81",
+                "Faculty": "Hikmat Adhami",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-237"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPE464",
+        "courseTitle": "Microprocessor design",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Computer Engineering"],
+        "sections": [
+            {
+                "Section": "CMPE 464 - SEC 81",
+                "Faculty": "Mokhled AlTarawneh",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-111"
+            },
+            {
+                "Section": "CMPE 464 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "unknown",
+                "Time": "unknown",
+                "Room": "unknown"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS101",
+        "courseTitle": "Computer Programming",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 101 - SEC 81",
+                "Faculty": "Alper Alan",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-222"
+            },
+            {
+                "Section": "CMPS 101 - SEC 82",
+                "Faculty": "Alper Alan",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-222"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS210",
+        "courseTitle": "Data Structures",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 210 - SEC 81",
+                "Faculty": "Ali Hossein Zanbouri",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-120"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS220",
+        "courseTitle": "Web Technologies I",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 220 - SEC 81",
+                "Faculty": "Mishri Almarshoud",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-232"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS260",
+        "courseTitle": "Networking I",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 260 - SEC 82",
+                "Faculty": "Hikmat Adhami",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS355",
+        "courseTitle": "Design and Analysis of Algorithms",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 355 - SEC 81",
+                "Faculty": "Ruba Skaik",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-212"
+            },
+            {
+                "Section": "CMPS 355 - SEC 82",
+                "Faculty": "Ruba Skaik",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-212"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS355",
+        "courseTitle": "Design and Analysis of Algorithms",
+        "group": "Elective Courses",
+        "courseMajors": ["Computer Engineering"],
+        "sections": [
+            {
+                "Section": "CMPS 355 - SEC 81",
+                "Faculty": "Ruba Skaik",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-212"
+            },
+            {
+                "Section": "CMPS 355 - SEC 82",
+                "Faculty": "Ruba Skaik",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-212"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS385",
+        "courseTitle": "Applied Cryptography",
+        "group": "Elective Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 385 - SEC 81",
+                "Faculty": "Mishri Almarshoud",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-232"
+            }
+        ]
+    },
+    {
+        "courseCode": "CMPS415",
+        "courseTitle": "Cybersecurity Analytics & Visualization",
+        "group": "Elective Courses",
+        "courseMajors": ["Cybersecurity and Computer Science"],
+        "sections": [
+            {
+                "Section": "CMPS 415 - SEC 81",
+                "Faculty": "Mokhled AlTarawneh",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-237"
+            }
+        ]
+    },
+    {
+        "courseCode": "COMD233",
+        "courseTitle": "Introduction to Communication Disorders",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Communication Sciences and Disorders"],
+        "sections": [
+            {
+                "Section": "COMD 233 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-240"
+            }
+        ]
+    },
+    {
+        "courseCode": "COMD238",
+        "courseTitle": "Phonetics",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Communication Sciences and Disorders"],
+        "sections": [
+            {
+                "Section": "COMD 238 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-G30"
+            }
+        ]
+    },
+    {
+        "courseCode": "COMD239",
+        "courseTitle": "Language and Speech Development",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Communication Sciences and Disorders"],
+        "sections": [
+            {
+                "Section": "COMD 239 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-G20"
+            }
+        ]
+    },
+    {
+        "courseCode": "COMM202",
+        "courseTitle": "Intro to Communication Theory",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "COMM 202 - SEC 81",
+                "Faculty": "Noora Binshamilan",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-G11"
+            }
+        ]
+    },
+    {
+        "courseCode": "ECON201",
+        "courseTitle": "Global Economic Concepts",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ECON 201 - SEC 81",
+                "Faculty": "Najla Albarrak",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-111"
+            },
+            {
+                "Section": "ECON 201 - SEC 82",
+                "Faculty": "Najla Albarrak",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-G10"
+            }
+        ]
+    },
+    {
+        "courseCode": "ELEC200",
+        "courseTitle": "Circuits Analysis + Lab",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Biomedical Engineering", "Computer Engineering", "Electrical Engineering"],
+        "sections": [
+            {
+                "Section": "ELEC 200 - SEC 81",
+                "Faculty": "Yousef Alarfaj",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "01-225"
+            },
+            {
+                "Section": "ELEC 200 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "ST",
+                "Time": "09:30-11:20",
+                "Room": "01-111"
+            },
+            {
+                "Section": "ELEC 200 - SEC 82",
+                "Faculty": "Yousef Alarfaj",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-112"
+            },
+            {
+                "Section": "ELEC 200 - SEC 82",
+                "Faculty": "unknown",
+                "Days": "TU",
+                "Time": "15:30-17:20",
+                "Room": "01-111"
+            },
+            {
+                "Section": "ELEC 200 - SEC 83",
+                "Faculty": "Elsheikh Mohamed  Ahmed Elsheikh",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-112"
+            },
+            {
+                "Section": "ELEC 200 - SEC 83",
+                "Faculty": "unknown",
+                "Days": "MW",
+                "Time": "12:30-14:20",
+                "Room": "01-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "ELEC354",
+        "courseTitle": "Circuits and Systems",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Electrical Engineering"],
+        "sections": [
+            {
+                "Section": "ELEC 354 - SEC 81",
+                "Faculty": "Mufasila Muhammed",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-112"
+            }
+        ]
+    },
+    {
+        "courseCode": "ELEC355",
+        "courseTitle": "Electronics I + Lab",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Computer Engineering", "Electrical Engineering"],
+        "sections": [
+            {
+                "Section": "ELEC 355 - SEC 81",
+                "Faculty": "Mufasila Muhammed",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "01-120"
+            },
+            {
+                "Section": "ELEC 355 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "TU",
+                "Time": "14:00-15:50",
+                "Room": "01-120"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGG100",
+        "courseTitle": "Introduction to Engineering: Programming Perspective",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ENGG 100 - Sec 81",
+                "Faculty": "Mohamed Hamoda",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-120"
+            },
+            {
+                "Section": "ENGG 100 - Sec 82",
+                "Faculty": "Ahmed Abdelhameed Alyeldien",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-212"
+            },
+            {
+                "Section": "ENGG 100 - Sec 83",
+                "Faculty": "Khadeeja Almutairi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-232"
+            },
+            {
+                "Section": "ENGG 100 - Sec 84",
+                "Faculty": "Abdullah M. AlRashidi",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-222"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGG150",
+        "courseTitle": "Engineering Graphics",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ENGG 150 - Sec 81",
+                "Faculty": "Behzad Bashiri",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "01-232"
+            },
+            {
+                "Section": "ENGG 150 - Sec 82",
+                "Faculty": "Ahmed El Kholy",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "01-232"
+            },
+            {
+                "Section": "ENGG 150 - Sec 83",
+                "Faculty": "Ahmed El Kholy",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "01-232"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGG301",
+        "courseTitle": "Engineering Economy",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ENGG 301 - Sec 81",
+                "Faculty": "Moetaz Elhawary",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-131"
+            },
+            {
+                "Section": "ENGG 301 - Sec 82",
+                "Faculty": "Moetaz Elhawary",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-131"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL100",
+        "courseTitle": "Academic English",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ENGL 100 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-240"
+            },
+            {
+                "Section": "ENGL 100 - Sec 82",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-240"
+            },
+            {
+                "Section": "ENGL 100 - Sec 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-210"
+            },
+            {
+                "Section": "ENGL 100 - Sec 84",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-140"
+            },
+            {
+                "Section": "ENGL 100 - Sec 85",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-140"
+            },
+            {
+                "Section": "ENGL 100 - Sec 86",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-140"
+            },
+            {
+                "Section": "ENGL 100 - Sec 87",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-140"
+            },
+            {
+                "Section": "ENGL 100 - Sec 88",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-210"
+            },
+            {
+                "Section": "ENGL 100 - Sec 89",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-210"
+            },
+            {
+                "Section": "ENGL 100 - Sec 90",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL110",
+        "courseTitle": "English Composition 1",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ENGL 110 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-110"
+            },
+            {
+                "Section": "ENGL 110 - Sec 82",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-110"
+            },
+            {
+                "Section": "ENGL 110 - Sec 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-110"
+            },
+            {
+                "Section": "ENGL 110 - Sec 84",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-243"
+            },
+            {
+                "Section": "ENGL 110 - Sec 85",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-243"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL120",
+        "courseTitle": "English Composition 2",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "ENGL 120 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-241"
+            },
+            {
+                "Section": "ENGL 120 - Sec 82",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-241"
+            },
+            {
+                "Section": "ENGL 120 - Sec 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-241"
+            },
+            {
+                "Section": "ENGL 120 - Sec 84",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-241"
+            },
+            {
+                "Section": "ENGL 120 - Sec 85",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-241"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL225",
+        "courseTitle": "English Grammar and Usage",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 225 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-132"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL260",
+        "courseTitle": "Introduction to the Study of Language",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 260 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-132"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL270",
+        "courseTitle": "Introduction to Literature studies",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 270 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-132"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL301",
+        "courseTitle": "Introduction to Applied Linguistics",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 301 - Sec 81",
+                "Faculty": "Khaleel Abusal",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-122"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL303",
+        "courseTitle": "Second Language Acquisition",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 303 - Sec 81",
+                "Faculty": "Khaleel Abusal",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-122"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL304",
+        "courseTitle": "First Language Acquisition",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 304 - Sec 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-224"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL404",
+        "courseTitle": "Bilingualism",
+        "group": "Compulsory Courses",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 404 - Sec 81",
+                "Faculty": "Sami Alenezi",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-224"
+            }
+        ]
+    },
+    {
+        "courseCode": "ENGL490",
+        "courseTitle": "Internship and/or Capstone project",
+        "group": "Capstone",
+        "courseMajors": ["English Language"],
+        "sections": [
+            {
+                "Section": "ENGL 490 - Sec 81",
+                "Faculty": "Sami Alenezi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-224"
+            }
+        ]
+    },
+    {
+        "courseCode": "FINT232",
+        "courseTitle": "Principles of Finance",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "FINT 232 - SEC 81",
+                "Faculty": "Abdullah Almutairi",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-122"
+            }
+        ]
+    },
+    {
+        "courseCode": "FINT240",
+        "courseTitle": "Financial Institutions",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Finance and Financial Technology"],
+        "sections": [
+            {
+                "Section": "FINT 240 - SEC 81",
+                "Faculty": "Abdullah Almutairi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-110"
+            }
+        ]
+    },
+    {
+        "courseCode": "GEOL130",
+        "courseTitle": "Intro. to Environmental Studies",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "GEOL 130 - Sec 81",
+                "Faculty": "Nour Kork",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-B11"
+            }
+        ]
+    },
+    {
+        "courseCode": "HIST110",
+        "courseTitle": "Islamic and Arab Civilization",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "HIST 110 - SEC 81",
+                "Faculty": "Jasem Jezza Alshemmari",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "01-B11"
+            },
+            {
+                "Section": "HIST 110 - SEC 82",
+                "Faculty": "Jasem Jezza Alshemmari",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "01-B11"
+            }
+        ]
+    },
+    {
+        "courseCode": "HLTH200",
+        "courseTitle": "Intro. to Healthcare Management",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Healthcare Management"],
+        "sections": [
+            {
+                "Section": "HLTH 200 - SEC 81",
+                "Faculty": "Faisal Albutti",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-132"
+            }
+        ]
+    },
+    {
+        "courseCode": "INFS120",
+        "courseTitle": "Introduction to Computers and Information Systems",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "INFS 120 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-110"
+            },
+            {
+                "Section": "INFS 120 - SEC 82",
+                "Faculty": "Sarah Alnuwaihedh",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-242"
+            },
+            {
+                "Section": "INFS 120 - SEC 83",
+                "Faculty": "Sarah Alnuwaihedh",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-242"
+            },
+            {
+                "Section": "INFS 120 - SEC 84",
+                "Faculty": "Faisal Albutti",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-222"
+            },
+            {
+                "Section": "INFS 120 - SEC 85",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-212"
+            },
+            {
+                "Section": "INFS 120 - SEC 86",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-222"
+            },
+            {
+                "Section": "INFS 120 - SEC 87",
+                "Faculty": "Waddah Altibwi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-212"
+            },
+            {
+                "Section": "INFS 120 - SEC 88",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-110"
+            }
+        ]
+    },
+    {
+        "courseCode": "INFS290",
+        "courseTitle": "Management Information Systems",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "INFS 290 - SEC 81",
+                "Faculty": "Waddah Altibwi",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-110"
+            }
+        ]
+    },
+    {
+        "courseCode": "MANG301",
+        "courseTitle": "Intro. to Management & Organizational Behavior",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MANG 301 - SEC 81",
+                "Faculty": "Fahad Almekrad",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-G40"
+            }
+        ]
+    },
+    {
+        "courseCode": "MANG485",
+        "courseTitle": "Strategic & Sustainable Manage.",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MANG 485 - SEC 81",
+                "Faculty": "Zeyad Almutawa",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-141"
+            },
+            {
+                "Section": "MANG 485 - SEC 82",
+                "Faculty": "Zeyad Almutawa",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-141"
+            }
+        ]
+    },
+    {
+        "courseCode": "MANG490",
+        "courseTitle": "Leadership & Change Management",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MANG 490 - SEC 81",
+                "Faculty": "Fahad Almekrad",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-210"
+            }
+        ]
+    },
+    {
+        "courseCode": "MARK201",
+        "courseTitle": "Principles of Marketing",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MARK 201 - SEC 81",
+                "Faculty": "Antonis Simintiras",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-122"
+            }
+        ]
+    },
+    {
+        "courseCode": "MARK220",
+        "courseTitle": "Consumer Behavior",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Marketing"],
+        "sections": [
+            {
+                "Section": "MARK 220 - SEC 81",
+                "Faculty": "Antonis Simintiras",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-131"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH100",
+        "courseTitle": "Quantitative Skills for Social Sciences (Arts students  only)",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 100 - Sec 81",
+                "Faculty": "Saif Moustafa",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-140"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH110",
+        "courseTitle": "College Algebra",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 110 - Sec 81",
+                "Faculty": "Saif Moustafa",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-G30"
+            },
+            {
+                "Section": "MATH 110 - Sec 82",
+                "Faculty": "Fahad Alajmi",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-131"
+            },
+            {
+                "Section": "MATH 110 - Sec 83",
+                "Faculty": "Fahad Alajmi",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-131"
+            },
+            {
+                "Section": "MATH 110 - Sec 84",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-121"
+            },
+            {
+                "Section": "MATH 110 - Sec 85",
+                "Faculty": "Fahad Almutairi",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-111"
+            },
+            {
+                "Section": "MATH 110 - Sec 86",
+                "Faculty": "Tarek Awida",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-111"
+            },
+            {
+                "Section": "MATH 110 - Sec 87",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-121"
+            },
+            {
+                "Section": "MATH 110 - Sec 88",
+                "Faculty": "Manal Aladwani",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH114",
+        "courseTitle": "Calculus for Business (Non-engineering only)",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 114 - SEC 81",
+                "Faculty": "Kamal Naser",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH131",
+        "courseTitle": "Calculus 1",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 131 - Sec 81",
+                "Faculty": "Seza Dinibutun",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-141"
+            },
+            {
+                "Section": "MATH 131 - Sec 82",
+                "Faculty": "Seza Dinibutun",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-141"
+            },
+            {
+                "Section": "MATH 131 - Sec 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-141"
+            },
+            {
+                "Section": "MATH 131 - Sec 84",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-G30"
+            },
+            {
+                "Section": "MATH 131 - Sec 85",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-237"
+            },
+            {
+                "Section": "MATH 131 - Sec 86",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-237"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH132",
+        "courseTitle": "Calculus 2",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 132 - Sec 81",
+                "Faculty": "Nursin Catak",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-240"
+            },
+            {
+                "Section": "MATH 132 - Sec 82",
+                "Faculty": "Nursin Catak",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-240"
+            },
+            {
+                "Section": "MATH 132 - Sec 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-G20"
+            },
+            {
+                "Section": "MATH 132 - Sec 84",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-G20"
+            },
+            {
+                "Section": "MATH 132 - Sec 85",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-G30"
+            },
+            {
+                "Section": "MATH 132 - Sec 86",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-G10"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH231",
+        "courseTitle": "Linear Algebra",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 231 - Sec 81",
+                "Faculty": "Bader Alaifan",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-132"
+            },
+            {
+                "Section": "MATH 231 - Sec 82",
+                "Faculty": "Bader Alaifan",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-132"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH290",
+        "courseTitle": "Engineering Statistics",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 290 - Sec 81",
+                "Faculty": "Ali Alhajraf",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-G10"
+            },
+            {
+                "Section": "MATH 290 - Sec 82",
+                "Faculty": "Ali Alhajraf",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-G40"
+            }
+        ]
+    },
+    {
+        "courseCode": "MATH331",
+        "courseTitle": "Ordinary Differential Equations",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MATH 331 - Sec 81",
+                "Faculty": "Fathi Belqasem",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-243"
+            },
+            {
+                "Section": "MATH 331 - Sec 82",
+                "Faculty": "Fathi Belqasem",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-225"
+            }
+        ]
+    },
+    {
+        "courseCode": "MEDI101",
+        "courseTitle": "Intro. to Media and Communication",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "MEDI 101 - SEC 81",
+                "Faculty": "Noora Binshamilan",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-G11"
+            },
+            {
+                "Section": "MEDI 101 - SEC 82",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-G11"
+            },
+            {
+                "Section": "MEDI 101 - SEC 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "MEDI200",
+        "courseTitle": "Principles of Public Relations",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Media"],
+        "sections": [
+            {
+                "Section": "MEDI 200 - SEC  81",
+                "Faculty": "Ahmad Alhaidar",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-141"
+            }
+        ]
+    },
+    {
+        "courseCode": "MEDI220",
+        "courseTitle": "Visual Communications Technology",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Media"],
+        "sections": [
+            {
+                "Section": "MEDI 220 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "05-110"
+            }
+        ]
+    },
+    {
+        "courseCode": "MEDI240",
+        "courseTitle": "Mass Communication",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Media"],
+        "sections": [
+            {
+                "Section": "MEDI 240 - SEC 81",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-210"
+            }
+        ]
+    },
+    {
+        "courseCode": "MEDI330",
+        "courseTitle": "Communication Research Methods",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Media"],
+        "sections": [
+            {
+                "Section": "MEDI 330 - SEC 81",
+                "Faculty": "Ahmad Alhaidar",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "04-111"
+            }
+        ]
+    },
+    {
+        "courseCode": "PHYS101",
+        "courseTitle": "Physics 1",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "PHYS 101 - Sec 81",
+                "Faculty": "Mahmoud Ahmed",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-225"
+            },
+            {
+                "Section": "PHYS 101 - Sec 81",
+                "Faculty": "Amir Al kadah",
+                "Days": "MW",
+                "Time": "11:00-12:50",
+                "Room": "01-131"
+            },
+            {
+                "Section": "PHYS 101 - Sec 82",
+                "Faculty": "Mahmoud Ahmed",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-225"
+            },
+            {
+                "Section": "PHYS 101 - Sec 82",
+                "Faculty": "Amir Al kadah",
+                "Days": "ST",
+                "Time": "14:00-15:50",
+                "Room": "01-131"
+            }
+        ]
+    },
+    {
+        "courseCode": "PHYS102",
+        "courseTitle": "Physics II",
+        "group": "College of Engineering Requiremets",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "PHYS 102 - Sec 81",
+                "Faculty": "Mariam Abdullah",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "04-227"
+            },
+            {
+                "Section": "PHYS 102 - Sec 81",
+                "Faculty": "Nour  Abdallah",
+                "Days": "MW",
+                "Time": "14:00-15:50",
+                "Room": "01-141"
+            },
+            {
+                "Section": "PHYS 102 - Sec 82",
+                "Faculty": "Mariam Abdullah",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "04-227"
+            },
+            {
+                "Section": "PHYS 102 - Sec 82",
+                "Faculty": "Nour  Abdallah",
+                "Days": "TU",
+                "Time": "12:30-14:20",
+                "Room": "01-141"
+            }
+        ]
+    },
+    {
+        "courseCode": "POLS120",
+        "courseTitle": "Kuwait Constitution and Government",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "POLS 120 - SEC 81",
+                "Faculty": "Yahia Morse",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "04-B11"
+            }
+        ]
+    },
+    {
+        "courseCode": "SOCS100",
+        "courseTitle": "Introduction to Sociology",
+        "group": "General Education",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "SOCS 100 - SEC 81",
+                "Faculty": "Sami Aljwaiseri",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-G30"
+            },
+            {
+                "Section": "SOCS 100 - SEC 82",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "15:30-16:50",
+                "Room": "01-B27"
+            },
+            {
+                "Section": "SOCS 100 - SEC 83",
+                "Faculty": "unknown",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "01-B27"
+            },
+            {
+                "Section": "SOCS 100 - SEC 84",
+                "Faculty": "Faisal ALMenawer",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "01-B27"
+            }
+        ]
+    },
+    {
+        "courseCode": "SOCS346",
+        "courseTitle": "Globalization and Human Rights",
+        "group": "College of Arts Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "SOCS 346 - SEC 81",
+                "Faculty": "Faisal ALMenawer",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "04-239"
+            }
+        ]
+    },
+    {
+        "courseCode": "SOCS465",
+        "courseTitle": "Sociology of Education",
+        "group": "Elective Courses",
+        "courseMajors": ["Sociology"],
+        "sections": [
+            {
+                "Section": "SOCS 465 - SEC 81",
+                "Faculty": "Abdelwahab Elhayes",
+                "Days": "SMTWU",
+                "Time": "11:00-12:20",
+                "Room": "05-G20"
+            },
+            {
+                "Section": "SOCS 465 - SEC 82",
+                "Faculty": "Abdelwahab Elhayes",
+                "Days": "SMTWU",
+                "Time": "14:00-15:20",
+                "Room": "05-G20"
+            }
+        ]
+    },
+    {
+        "courseCode": "SOCW150",
+        "courseTitle": "Introduction to Social Service",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Social Services"],
+        "sections": [
+            {
+                "Section": "SOCW 150 - SEC 81",
+                "Faculty": "Ghadeer Aseri",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-122"
+            }
+        ]
+    },
+    {
+        "courseCode": "SOCW200",
+        "courseTitle": "Human Behavior and Social Environ.",
+        "group": "Compulsory Courses",
+        "courseMajors": ["Social Services"],
+        "sections": [
+            {
+                "Section": "SOCW 200 - SEC 81",
+                "Faculty": "Ghadeer Aseri",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-121"
+            }
+        ]
+    },
+    {
+        "courseCode": "STAT200",
+        "courseTitle": "Introduction to Social Statistics",
+        "group": "College of Arts Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "STAT 200 - Sec 81",
+                "Faculty": "Seham Ali",
+                "Days": "SMTWU",
+                "Time": "09:30-10:50",
+                "Room": "05-141"
+            }
+        ]
+    },
+    {
+        "courseCode": "STAT231",
+        "courseTitle": "Statistics for Business",
+        "group": "College of Business Requirements",
+        "courseMajors": [],
+        "sections": [
+            {
+                "Section": "STAT 231 - Sec 81",
+                "Faculty": "Seham Ali",
+                "Days": "SMTWU",
+                "Time": "12:30-13:50",
+                "Room": "05-141"
+            }
+        ]
+    }
+]
